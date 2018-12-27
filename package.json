@@ -1,0 +1,26 @@
+{
+  "name": "ele01",
+  "version": "1.0.0",
+  "description": "桌面程序",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yycreate/ele01.git"
+  },
+  "keywords": [
+    "tool"
+  ],
+  "author": "yy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yycreate/ele01/issues"
+  },
+  "homepage": "https://github.com/yycreate/ele01#readme",
+  "dependencies": {
+    "electron": "^4.0.0"
+  }
+}
